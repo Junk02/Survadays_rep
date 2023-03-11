@@ -68,7 +68,7 @@ namespace Survadays
             Console.Clear();
 
 
-            Game game = new Game(1000, 1000);
+            Game game = new Game(1000, 1000); //создание игры
 
         }
     }

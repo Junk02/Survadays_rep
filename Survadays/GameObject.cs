@@ -24,10 +24,7 @@ namespace Survadays
             y_pos = y;
         }
 
-        public GameObject()
-        {
-
-        }
+        public GameObject() {}
 
         public void Moving(GameObject obj, Map map, int step, int direction)
         {

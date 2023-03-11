@@ -17,9 +17,6 @@ namespace Survadays
             this.health = health;
         }
 
-        public Entity()
-        {
-
-        }        
+        public Entity() {}        
     }
 }

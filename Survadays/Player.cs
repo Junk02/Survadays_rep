@@ -16,10 +16,7 @@ namespace Survadays
             y_view = (Console.BufferWidth - 3) / 2 + (Console.BufferWidth - 3) / 4 - 2;
         }
 
-        public Player()
-        {
-
-        }
+        public Player() {}
 
         public void PlayerInfo()
         {
