@@ -17,10 +17,7 @@ namespace Survadays
             base.name = name;
         }
 
-        public Player()
-        {
-
-        }
+        public Player() {}
 
         public void PlayerInfo()
         {
