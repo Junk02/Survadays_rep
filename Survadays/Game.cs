@@ -27,7 +27,7 @@ namespace Survadays
             GameInit(); //начальная инициализация игры
 
 
-            terrain.DrawMap(game_dis_height - 2, game_dis_width - 2, player.x_pos, player.y_pos);
+            terrain.DrawMap(player.x_view, player.y_view, player.x_pos, player.y_pos);
             
             Thread.Sleep(100000);
         }
