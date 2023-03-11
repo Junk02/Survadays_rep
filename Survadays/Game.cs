@@ -29,7 +29,6 @@ namespace Survadays
 
             terrain.DrawMap(game_dis_height - 2, game_dis_width - 2, player.x_pos, player.y_pos);
             
-            Thread.Sleep(100000);
         }
 
         public void GameInit()
